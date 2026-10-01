@@ -1,0 +1,144 @@
+{
+    "students": [
+        {
+            "person_id": "STU202501",
+            "name": "Aarav Sharma",
+            "email": "aarav@gmail.com",
+            "phone": "9123456780",
+            "gender": "Male",
+            "degree": "B.Tech",
+            "department": "CSE",
+            "year": 1,
+            "fee_paid": 115000.0,
+            "enrolled_courses": [],
+            "grades": {},
+            "attendance": {}
+        },
+        {
+            "person_id": "STU202502",
+            "name": "Sneha Patel",
+            "email": "sneha@gmail.com",
+            "phone": "9123456781",
+            "gender": "Female",
+            "degree": "B.Tech",
+            "department": "AIML",
+            "year": 1,
+            "fee_paid": 125000.0,
+            "enrolled_courses": [],
+            "grades": {},
+            "attendance": {}
+        },
+        {
+            "person_id": "STU202503",
+            "name": "Rahul Verma",
+            "email": "rahul@gmail.com",
+            "phone": "9123456782",
+            "gender": "Male",
+            "degree": "M.Tech",
+            "department": "CSE",
+            "year": 1,
+            "fee_paid": 95000.0,
+            "enrolled_courses": [],
+            "grades": {},
+            "attendance": {}
+        },
+        {
+            "person_id": "STU-B104",
+            "name": "Ananya Rao",
+            "email": "ananya@gmail.com",
+            "phone": "9876543210",
+            "gender": "Female",
+            "degree": "B.Tech",
+            "department": "CSE",
+            "year": 1,
+            "fee_paid": 186500.0,
+            "enrolled_courses": [],
+            "grades": {},
+            "attendance": {}
+        }
+    ],
+    "faculty": [
+        {
+            "person_id": "FAC101",
+            "name": "Dr. A. K. Sharma",
+            "email": "aksharma@college.edu",
+            "phone": "9876543210",
+            "gender": "Male",
+            "department": "CSE",
+            "designation": "Professor & HOD",
+            "salary": 140000,
+            "assigned_courses": []
+        },
+        {
+            "person_id": "FAC102",
+            "name": "Dr. Radhika Sen",
+            "email": "radhika.sen@college.edu",
+            "phone": "9876543211",
+            "gender": "Female",
+            "department": "AIML",
+            "designation": "Professor & HOD",
+            "salary": 145000,
+            "assigned_courses": []
+        },
+        {
+            "person_id": "FAC103",
+            "name": "Prof. Suresh Kumar",
+            "email": "suresh.k@college.edu",
+            "phone": "9876543212",
+            "gender": "Male",
+            "department": "ECE",
+            "designation": "Assoc. Professor",
+            "salary": 95000,
+            "assigned_courses": []
+        },
+        {
+            "person_id": "FAC104",
+            "name": "Dr. S. Mukherjee",
+            "email": "smukherjee@college.edu",
+            "phone": "9876543213",
+            "gender": "Male",
+            "department": "IT",
+            "designation": "Professor & HOD",
+            "salary": 135000,
+            "assigned_courses": []
+        }
+    ],
+    "senior_reviews": [
+        {
+            "reviewer_name": "Rohan Deshmukh",
+            "degree": "B.Tech",
+            "department": "CSE",
+            "passout_year": 2025,
+            "rating": 5,
+            "review_text": "Awesome campus life! The Python & AI labs are top notch. Got placed at Amazon with 24 LPA. Focus on Data Structures from 1st year.",
+            "company_placed": "Amazon (24 LPA)"
+        },
+        {
+            "reviewer_name": "Ananya Kulkarni",
+            "degree": "B.Tech",
+            "department": "AIML",
+            "passout_year": 2024,
+            "rating": 5,
+            "review_text": "The faculty in AI/ML is super helpful. We worked on real-world computer vision projects. Placed at Microsoft!",
+            "company_placed": "Microsoft (28 LPA)"
+        },
+        {
+            "reviewer_name": "Vikram Singh",
+            "degree": "B.Tech",
+            "department": "ECE",
+            "passout_year": 2024,
+            "rating": 4,
+            "review_text": "Great VLSI & Robotics labs. Faculty guides you for GATE exam as well as campus placements. Good infrastructure.",
+            "company_placed": "Qualcomm (16 LPA)"
+        },
+        {
+            "reviewer_name": "Priya Nair",
+            "degree": "M.Tech",
+            "department": "CSE",
+            "passout_year": 2025,
+            "rating": 5,
+            "review_text": "M.Tech program offers deep research exposure. Flexible timings for lab work and stipend assistance available.",
+            "company_placed": "TCS Research (14 LPA)"
+        }
+    ]
+}
